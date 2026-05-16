@@ -1,0 +1,26 @@
+# Ravomix
+
+> Free toolkit with 200+ document templates (application letters, complaint letters, legal & finance forms) and 50+ utility tools. Hindi & English. No login required.
+
+Ravomix helps students, professionals, business owners, lawyers and CAs in India generate ready-to-use letters and run everyday calculations directly in the browser, with offline support and a free Android app.
+
+## Pages
+
+- [Home](/): Overview of templates and tools.
+- [Applications](/applications): 120+ application letter templates (school, college, office, bank, government, legal).
+- [Complaints](/complaints): 80+ complaint letter templates (housing, banking, public utility, consumer, travel).
+- [Tools](/tools): 50+ free calculators and converters (EMI, GST, income tax, BMI, unit & currency converters).
+- [Guide](/guide): Step-by-step articles on writing applications, complaints and legal documents.
+- [FAQ](/faq): Common questions about using Ravomix.
+- [About](/about): What Ravomix is and who builds it.
+- [Contact](/contact): Reach the Ravomix team.
+- [Install](/install): Install the Android app or PWA.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+- [Cookie Policy](/cookies)
+- [DMCA](/dmca)
+- [Data Deletion](/data-deletion)
+- [Sitemap](/sitemap)

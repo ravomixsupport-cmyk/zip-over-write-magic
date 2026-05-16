@@ -1,0 +1,21 @@
+export async function onRequest(context) {
+  const data = [
+    {
+      relation: ["delegate_permission/common.handle_all_urls"],
+      target: {
+        namespace: "android_app",
+        package_name: "com.ravomix.twa",
+        sha256_cert_fingerprints: [
+          "F2:EE:CC:08:CC:19:0E:93:BC:3B:35:39:EF:1F:F9:7C:31:08:C1:46:C3:EB:82:EF:2B:A4:18:DE:13:3C:45:E8"
+        ]
+      }
+    }
+  ];
+  return new Response(JSON.stringify(data), {
+    headers: {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Cache-Control": "no-cache"
+    }
+  });
+}
