@@ -1,0 +1,8 @@
+/.well-known/assetlinks.json
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json
+  Cache-Control: no-cache, no-store
+
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff

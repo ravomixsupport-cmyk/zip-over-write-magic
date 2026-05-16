@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ravomix.com/sitemap.xml
+Sitemap: https://ravomix.blog/sitemap.xml
